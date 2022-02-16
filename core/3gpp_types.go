@@ -11,5 +11,5 @@ type Ng_plmn_id_t struct {
 
 type Ng_s_nssai_t struct {
     sst uint8
-    sd uint24
+    sd uint
 }
